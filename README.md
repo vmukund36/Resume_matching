@@ -69,4 +69,4 @@ This script will process the job descriptions, extract text from resumes, calcul
 <br />
 4. Review Results
 <br />
-The results will be displayed in the terminal, showing the top 5 matching resumes for each specified job description along with similarity scores. In the python notebook `Capital_placement_assignment.ipynb`, I have chosen 'Accountant' for testing the CV matching and it produced good results and displayed top 5 relevant resumés.
+The results will be displayed in the terminal, showing the top 5 matching resumes for each specified job description along with similarity scores. In the python notebook `Main_code.ipynb`, I have chosen 'Accountant' for testing the CV matching and it produced good results and displayed top 5 relevant resumés.
